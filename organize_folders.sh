@@ -46,9 +46,4 @@ cd "$current_month_year" || exit
 create_date_folder
 cd
 
-# Desktop/txt
-cd Desktop/txt || exit
-create_month_year_folder
-cd "$current_month_year" || exit
-create_date_folder
-cd
+
