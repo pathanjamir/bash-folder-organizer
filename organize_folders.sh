@@ -18,8 +18,8 @@ create_month_year_folder() {
     fi
 }
 
-# Desktop/support
-cd Desktop/support || exit
+# Desktop
+cd Desktop || exit
 create_month_year_folder
 cd "$current_month_year" || exit
 create_date_folder
