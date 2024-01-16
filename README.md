@@ -21,7 +21,7 @@ This Bash script helps organize your files by creating date and month-year folde
 
 ## Structure
 
-- **Desktop:** Organizes folders for desktop support.
+- **Desktop:** Organizes folders for desktop files.
 - **Downloads:** Organizes folders for downloaded files.
 - **Pictures:** Organizes folders for pictures.
 - **Documents:** Organizes folders for documents.
