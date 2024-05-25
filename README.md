@@ -8,7 +8,7 @@ This Bash script helps organize your files by creating date and month-year folde
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bash-folder-organizer.git
+    git clone https://github.com/pathanjamir/bash-folder-organizer.git
     ```
 
 2. Run the script:
